@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @s-rakim
-- 👀 I’m interested in rugby
-- 🌱 I’m currently learning how to code
+- 👀 I’m a rugby player 
+-  🌱 I’m a civil eng undergrad by day, vibe coder by night
 - 💞️ I’m looking to collaborate on creating a video game
 - 📫 How to reach me rakimmalcolm06@gmail.com
 
