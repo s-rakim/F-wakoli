@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @s-rakim
-- 👀 I’m a rugby player 
--  🌱 I’m a C&S eng 👷‍♂️ by day, vibe coder by night
+- 👋 Hi, I’m Faith Hope
+- 👀 I’m a pre dentistry student
+-  🌱 I’m a student, vibe coder by night
 - 💞️ I’m looking to collaborate on creating a video game
 - 📫 How to reach me rakimmalcolm06@gmail.com
 
